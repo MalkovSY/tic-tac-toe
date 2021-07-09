@@ -1,0 +1,19 @@
+.game {
+    display: flex;
+    flex-direction: row;
+}
+  
+.game-info {
+    margin-left: 20px;
+}
+
+.status {
+    margin-bottom: 10px;
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.step {
+    font-size: 25px;
+    background-color: transparent;
+}
